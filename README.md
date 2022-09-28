@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheriftawaptawap
+- 👋 Hi, I’m Sherif Tawap Mohamed
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning test automation
 - 💞️ I’m looking to collaborate on some projects
